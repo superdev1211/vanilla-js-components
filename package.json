@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-js-components",
+  "version": "1.0.0",
+  "description": "Zero-dependency vanilla JavaScript UI components library",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
